@@ -1,0 +1,6 @@
+{
+  "name": "OnionIQ",
+  "description": "AI-Powered Non-Destructive Onion Quality Assessment platform for government procurement centers and supply chains.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
